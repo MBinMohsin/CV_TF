@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: tanzila-farhat-cv
-    env: static
-    buildCommand: ""
-    staticPublishPath: ./
